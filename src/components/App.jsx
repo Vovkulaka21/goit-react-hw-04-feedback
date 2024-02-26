@@ -5,7 +5,7 @@ import Section from './Section/Section';
 
 import css from './App.module.css';
 
-import { useState, Component } from 'react';
+import { useState, } from 'react';
 
 const options = ['good', 'neutral', 'bad'];
 
